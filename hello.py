@@ -1,3 +1,6 @@
 print("Hello")
+print("2:90 Edit in lab")
 print("Sincerely, Paul")
+print("")
+print("PS, I'm learning Git")
 txt=input("enter your name")
