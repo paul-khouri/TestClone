@@ -1,0 +1,6 @@
+print("Hello")
+print("")
+print("Hello!")
+print("")
+print("Sincerely, Paul")
+txt=input("enter your name")
